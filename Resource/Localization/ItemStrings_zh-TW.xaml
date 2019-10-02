@@ -22,6 +22,9 @@
     <!--Knight's Vow-->
     <s:String x:Key="KnightsVow" xml:space="preserve">騎士誓願</s:String>
     <s:String x:Key="KnightsVow1" xml:space="preserve">&#10;佩戴者附加騎士職業。</s:String>
+      <!--Mittens-->
+    <s:String x:Key="Mittens" xml:space="preserve">連指手套</s:String>
+    <s:String x:Key="Mittens1" xml:space="preserve">&#10;此英雄也會被視為一名約德爾人</s:String>
     <!--Runaan's Hurricane-->
     <s:String x:Key="RunaansHurricane" xml:space="preserve">芮蘭颶風箭</s:String>
     <s:String x:Key="RunaansHurricane1" xml:space="preserve">&#10;普攻會額外對一個目標射出箭矢，箭矢只造成25%傷害，可觸發命中效果。</s:String>
